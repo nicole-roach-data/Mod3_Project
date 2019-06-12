@@ -1,6 +1,6 @@
 # Data Science Mod 3 Project:  Welcome to Working Together: Marvel & DC
 #### June 11, 2019
-* Nicole Roach and Gordon CHen (nyc-mhtn-ds-0422019)
+* Nicole Roach and Gordon Chen (nyc-mhtn-ds-0422019)
 * Flatiron School
 
 ## Project Description
@@ -37,3 +37,4 @@ This dataset contains the latest information on DC characters.
 
 
 #### Conclusion and Presentation
+https://github.com/gordonchen07/Mod3_Project/blob/master/ComicCharacter.pdf
