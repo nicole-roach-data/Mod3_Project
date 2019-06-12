@@ -37,4 +37,3 @@ This dataset contains the latest information on DC characters.
 
 
 #### Conclusion and Presentation
-* https://docs.google.com/presentation/d/1STg8PRsdN8YOPfCLKbWTnA2Nx6alV7CNDdMPofqsugk/edit?usp=sharing
