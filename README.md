@@ -1,6 +1,7 @@
 # Data Science Mod 3 Project:  Welcome to Working Together: Marvel & DC
 #### June 11, 2019
-* Nicole Roach and Gordon Chen (nyc-mhtn-ds-0422019)
+* Nicole Roach and Gordon Chen 
+* (nyc-mhtn-ds-0422019)
 * Flatiron School
 
 ## Project Description
